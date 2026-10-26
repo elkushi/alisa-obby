@@ -1,0 +1,109 @@
+================================================================
+«Начало» — 6 кадров, ровно 30 секунд
+================================================================
+Каждый блок — ОТДЕЛЬНАЯ генерация по 5 секунд.
+Не вставляй всё сразу: генератор делает 5-15 сек и остальное игнорирует.
+
+Настройки: 5 секунд, 16:9 (или 9:16 для телефона), 720p+.
+6 x 5 сек = 30 сек ровно.
+
+Блок с описанием внешности повторяется в КАЖДОМ промпте намеренно —
+именно это держит их похожими от кадра к кадру. Не сокращай его.
+
+----------------------------------------------------------------
+ВНЕШНОСТЬ — вставляй в каждый промпт
+----------------------------------------------------------------
+MUSTAFA: young man, blocky Roblox avatar, large voluminous black curly
+afro hair, light-brown skin, short dark stubble, black and grey athletic
+t-shirt with a red waistband, black cargo shorts, white sneakers.
+
+ALISA: young woman, blocky Roblox avatar, long wavy dark-brown hair,
+red beret, cream long-sleeve top, navy knitted scarf, dusty-rose
+wide-leg jeans, white sneakers.
+
+----------------------------------------------------------------
+1 — ПАРК, ОН ЖДЁТ ОЧЕРЕДЬ                              (5 сек)
+----------------------------------------------------------------
+Roblox-style 3D animated scene, cinematic render, warm golden-hour light,
+soft depth of field, slow camera push-in.
+[MUSTAFA]
+Moscow park, late afternoon. Mustafa stands near a green ping-pong table
+holding a paddle, waiting for his turn, relaxed, glancing around.
+Wide establishing shot, long shadows, trees behind him.
+
+----------------------------------------------------------------
+2 — ОН ЗАМЕЧАЕТ ЕЁ                                     (5 сек)
+----------------------------------------------------------------
+Roblox-style 3D animated scene, cinematic render, warm golden-hour light,
+shallow depth of field, slow drift toward Mustafa.
+[MUSTAFA] [ALISA]
+Moscow park. Alisa stands a short distance away with two friends seated
+on a bench. Mustafa looks over at her with a CURIOUS expression, slight
+head tilt, squinting a little — as if trying to remember where he has
+seen her face before. Curious, NOT romantic. Medium shot.
+
+----------------------------------------------------------------
+3 — ОНА ОГЛЯДЫВАЕТСЯ                                   (4 сек)
+----------------------------------------------------------------
+Roblox-style 3D animated scene, cinematic render, warm golden-hour light,
+shallow depth of field, static camera.
+[ALISA]
+Close-up on Alisa in a Moscow park. She notices someone looking at her,
+glances back briefly, gives a small shy smile, then looks away.
+Subtle, natural, slightly bashful.
+
+----------------------------------------------------------------
+4 — ИДУТ И СМЕЮТСЯ                                     (5 сек)
+----------------------------------------------------------------
+Roblox-style 3D animated scene, cinematic render, warm golden-hour light,
+smooth side-tracking camera.
+[MUSTAFA] [ALISA]
+Mustafa and Alisa walk together along a tree-lined park path, talking
+and laughing, clearly comfortable with each other. Playful eye contact.
+Camera tracks alongside them.
+
+----------------------------------------------------------------
+5 — СКАМЕЙКА, ОНА ОБЪЯСНЯЕТ ПО-РУССКИ                  (6 сек)
+----------------------------------------------------------------
+Roblox-style 3D animated scene, cinematic render, soft warm light,
+very shallow depth of field, slow push-in.
+[MUSTAFA] [ALISA]
+Mustafa and Alisa sit together on a park bench. Alisa explains a Russian
+word to Mustafa, gesturing with her hands. He looks thoughtful and
+slightly lost, mentally translating — then catches himself looking at
+her eyes and loses his train of thought. She waits patiently, smiling.
+CUTE and FUNNY, not dramatic.
+
+----------------------------------------------------------------
+6 — ТОТ ЖЕ ПАРК, ФИНАЛ                                 (5 сек)
+----------------------------------------------------------------
+Roblox-style 3D animated scene, cinematic render, golden-hour light,
+slow camera pull-back, cinematic composition.
+[MUSTAFA] [ALISA]
+Back in the same Moscow park, the green ping-pong table visible behind
+them. Mustafa gives Alisa a small knowing smile, remembering he came
+here only to play ping-pong. She smiles back. They turn and walk away
+together down the path as the camera slowly pulls back. Final shot.
+
+================================================================
+В КАЖДЫЙ ПРОМПТ — ОГРАНИЧЕНИЕ
+================================================================
+They are NOT a couple. No kissing, no dramatic romance, no wedding
+imagery, no exaggerated passion. Subtle, shy, early-stage chemistry only.
+
+================================================================
+ЧТО ВЫРЕЗАНО РАДИ 30 СЕКУНД
+================================================================
+- Арабское слово «Йалла» (она повторяет, оба смеются)
+- Вечерняя Москва с тёплыми огнями — самый красивый кадр, но
+  ради финала в парке им пришлось пожертвовать
+- Отдельный крупный план «где я её видел» — слился с кадром 2
+
+Если найдёшь ещё 10 секунд — верни вечернюю Москву между 4 и 5.
+
+СОВЕТЫ
+- Генерируй каждый кадр 2-3 раза, бери лучший. Непохожесть
+  персонажей — слабое место всех моделей, это нормально.
+- Есть поле "reference image"? Загрузи alisa.png / moustafa.png.
+  Это поднимает схожесть сильнее любого текста.
+- Клипы кидай мне — склею, подгоню цвет, подложу песню.
